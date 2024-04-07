@@ -9,7 +9,7 @@ You can manage the inventory in the warehouse by supplying/updating the inventor
 <br>
 as well as managing expired boxes, viewing/searching the inventory of the boxes in the warehouse, displaying boxes that have not been purchased for more than T time, and receiving alerts about a low quantity in stock.
 <br>
-In addition, you can define custom settings in the user interface (wpf) such as:
+In addition, you can define custom settings in the user interface (WPF) such as:
 <br>
 -Maximum distance limit in case of non-compliance with the requested dimensions and alternative offers accordingly,
 <br>
