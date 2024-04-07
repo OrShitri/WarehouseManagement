@@ -23,7 +23,7 @@ Data can be saved and loaded for each user on JSON files
 ### Installing
 * Pull from here
 
-### Executing program
+### Executing Program
 
 * Compile
 * Run the exe
