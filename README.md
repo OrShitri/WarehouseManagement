@@ -1,4 +1,4 @@
-<img align="center" alt="backgroundWarehouse" width="700px" style="padding-right:10px;" src="https://github.com/OrShitri/WarehouseManagement/blob/master/PackagingBoxes/Images/BackgroundWarehouse.jpeg?raw=true" />  
+<img align="center" alt="backgroundWarehouse" style="padding-right:10px;" src="https://github.com/OrShitri/WarehouseManagement/blob/master/PackagingBoxes/Images/BackgroundWarehouse.jpeg?raw=true" />  
 
 # Warehouse Management
 WPF application for warehouse management of packaging boxes while maintaining maximum efficiency with principles of Algorithms & Complexity and use of Data Structure.
